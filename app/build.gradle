@@ -4,7 +4,7 @@ android {
     compileSdkVersion 25
     buildToolsVersion "26.0.0"
     defaultConfig {
-        buildConfigField 'String','APP_NAME','"LS19StatusBar"'
+        buildConfigField 'String','APP_NAME','"LS29StatusBar"'
         applicationId "com.example.administrator.ls29statusbar"
         minSdkVersion 15
         targetSdkVersion 25
